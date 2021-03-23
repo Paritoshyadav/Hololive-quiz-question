@@ -12,11 +12,17 @@ Quiz Question based on hololive that is currently used in holoquiz app https://p
     },
     
  category: For future update
+ 
  type: multiple // currently multiple type is only option
+ 
  difficulty: for future update options: easy,medium,hard
+ 
  question: Write your question
+ 
  correct answer: correct option // should be 1
+ 
  incorrect_answer: wrong options // should be atleast 1 and at max 4
+ 
  
  
  file format is in dart, which if for dart language
