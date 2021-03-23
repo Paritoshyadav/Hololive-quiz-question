@@ -22,8 +22,3 @@ Quiz Question based on hololive that is currently used in holoquiz app https://p
  correct answer: correct option // should be 1
  
  incorrect_answer: wrong options // should be atleast 1 and at max 4
- 
- 
- 
- file format is in dart, which is dart language extension
- but dont worry since format inside it is in json
